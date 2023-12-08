@@ -12,7 +12,7 @@ public class TesteContas {
 		
 		System.out.println(conta.getAgencia());
 		
-		System.out.println("o total de contas é : " + Conta.getTotal());
+		System.out.println("O total de contas BYTEBANK é : " + Conta.getTotal());
 		
 	}
 	
